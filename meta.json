@@ -4,23 +4,41 @@
 {
     //Required. Inputs the module expects.
     "inputs": [
-        //e.g.
-        /*
         {
-            "id": "from",
-            "title":"From"
+            "id": "part",
+            "title":"Part"
+        },
+        {
+            "id": "resourceId",
+            "title":"Resource ID"
         }
-        */
     ],
     //Required. Outputs the module emits.
     "outputs": [
-      //e.g.
-      /*
         {
-            "id": "from",
-            "title":"From"
+            "id": "id",
+            "title":"ID"
+        },
+        {
+            "id": "kind",
+            "title":"Kind"
+        },
+        {
+            "id": "etag",
+            "title":"Etag"
+        },
+        {
+            "id": "publishedAt",
+            "title":"Published"
+        },
+        {
+            "id": "title",
+            "title":"Title"
+        },
+        {
+            "id": "description",
+            "title":"Description"
         }
-      */
     ],
     "title": "YouTube Subscribe to Channel" /* Required.A display name for the module */
 }
