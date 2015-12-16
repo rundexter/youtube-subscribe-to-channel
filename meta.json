@@ -40,5 +40,6 @@
             "title":"Description"
         }
     ],
+    "icon": "youtube-play",
     "title": "YouTube Subscribe to Channel" /* Required.A display name for the module */
 }
