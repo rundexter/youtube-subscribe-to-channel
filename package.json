@@ -1,13 +1,17 @@
 {
-  "name": "youtube-subscribe-to-channel",
-  "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
-  "author": "Alexander",
-  "license": "ISC",
-  "private": true,
-  "dependencies": {
-    "googleapis": "^2.1.7",
-    "lodash": "^3.10.1"
-  }
+   "name": "youtube-subscribe-to-channel",
+   "version": "0.0.1",
+   "description": "Adds a subscription for the authenticated user's channel",
+   "main": "index.js",
+   "author": "Run Dexter, Inc",
+   "license": "MIT",
+   "private": true,
+   "dependencies": {
+      "googleapis": "^2.1.7",
+      "lodash": "^3.10.1"
+   },
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/rundexter/youtube-subscribe-to-channel"
+   }
 }
